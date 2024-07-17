@@ -1,0 +1,16 @@
+type: edu
+custom_name: Sustainable care <3
+files:
+  - name: src/Zookeeper.kt
+    visible: true
+    learner_created: false
+  - name: test/ZookeeperTest.kt
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14136#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Wed, 17 Jul 2024 05:52:00 UTC"
+record: 4
